@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @irhmaan
-- 👀 I’m a flutter developer
-- 📫 How to reach me rehmaankhan287@gmail.com
-- Check out my portfolio: https://irehmaan2.web.app
-- ⚡ Fun fact: I can code XD.
+- Hi, I’m Imdadul Rehmaan
+- I’m a software developer.
+- Interested in s/w dev, embedded development, IoT and robotics.
+- How to reach me rehmaankhan287@gmail.com
+- Come hang around with me on X:
+- ⚡ Fun fact: We all are made up of star dust. 
 
 <!---
 irhmaan/irhmaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
